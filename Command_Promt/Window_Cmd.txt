@@ -1,0 +1,9 @@
+for create file echo
+For creating directory mkdir
+for deleting dir rmdir
+opening file type
+creating file echo content>filename
+to get all the folders dir
+clear screen cls
+copy copy the file
+move moves the file
